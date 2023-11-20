@@ -60,7 +60,6 @@ public void login(){
 */
     
     public class LoginBuilder {
-
     private String email;
     private String password;
 
